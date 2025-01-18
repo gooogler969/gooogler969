@@ -32,8 +32,7 @@
 <br clear="both">
 
 
-
-![GitHub Snake Animation](https://github.com/gooogler969/gooogler969/blob/output/github-contribution-grid-snake.svg)
+![GitHub Snake Animation](https://github.com/gooogler969/gooogler969/blob/output/snake.svg)
 
 ###
 
